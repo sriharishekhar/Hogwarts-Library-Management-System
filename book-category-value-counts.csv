@@ -1,0 +1,5 @@
+category_name,count(category.id)
+Fiction,10
+Non-Fiction,6
+Sci-Fi,8
+Spiritual,3
